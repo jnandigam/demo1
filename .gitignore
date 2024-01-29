@@ -1,0 +1,11 @@
+# ignore Java class files
+*.class
+
+# Log file
+*.log
+
+# ignore all files in bin folder
+bin/
+
+# ignore system file on MacOS
+.DS_Store
