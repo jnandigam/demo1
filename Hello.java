@@ -4,6 +4,6 @@ public class Hello {
         System.out.println("Hello USA!");
         System.out.println("Hello Michigan!");
         System.out.println("Hello West Michigan!");
-        System.out.println("Hello GVSU!");
+        System.out.println("Hello GVSU School of Computing!");
     }
 }
