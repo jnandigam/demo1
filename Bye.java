@@ -3,7 +3,7 @@ public class Bye {
         if (args.length > 0) {
             System.out.println("Bye " + args[0] + "!");
         } else {
-            System.out.println("Bye World!");
+            System.out.println("Adios amigos!");
         }
     }
 }
